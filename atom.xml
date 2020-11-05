@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://beiyuanzhang.github.io</id>
+    <id>https://energyzh.github.io</id>
     <title>energy-zhang</title>
-    <updated>2020-11-05T19:50:49.548Z</updated>
+    <updated>2020-11-05T20:10:48.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://beiyuanzhang.github.io"/>
-    <link rel="self" href="https://beiyuanzhang.github.io/atom.xml"/>
+    <link rel="alternate" href="https://energyzh.github.io"/>
+    <link rel="self" href="https://energyzh.github.io/atom.xml"/>
     <subtitle>A UX&amp;UI designer.</subtitle>
-    <logo>https://beiyuanzhang.github.io/images/avatar.png</logo>
-    <icon>https://beiyuanzhang.github.io/favicon.ico</icon>
+    <logo>https://energyzh.github.io/images/avatar.png</logo>
+    <icon>https://energyzh.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, energy-zhang</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://beiyuanzhang.github.io/post/hello-gridea/</id>
-        <link href="https://beiyuanzhang.github.io/post/hello-gridea/">
+        <id>https://energyzh.github.io/post/hello-gridea/</id>
+        <link href="https://energyzh.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
