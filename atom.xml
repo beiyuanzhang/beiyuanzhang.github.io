@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cheongpeiyuen.github.io</id>
+    <id>https://cheongpy.github.io</id>
     <title>peiyuen cheong</title>
-    <updated>2021-01-26T18:31:07.989Z</updated>
+    <updated>2021-02-22T05:52:26.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cheongpeiyuen.github.io"/>
-    <link rel="self" href="https://cheongpeiyuen.github.io/atom.xml"/>
+    <link rel="alternate" href="https://cheongpy.github.io"/>
+    <link rel="self" href="https://cheongpy.github.io/atom.xml"/>
     <subtitle>A UX&amp;UI designer.</subtitle>
-    <logo>https://cheongpeiyuen.github.io/images/avatar.png</logo>
-    <icon>https://cheongpeiyuen.github.io/favicon.ico</icon>
+    <logo>https://cheongpy.github.io/images/avatar.png</logo>
+    <icon>https://cheongpy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, peiyuen cheong</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://cheongpeiyuen.github.io/post/hello-gridea/</id>
-        <link href="https://cheongpeiyuen.github.io/post/hello-gridea/">
+        <id>https://cheongpy.github.io/post/hello-gridea/</id>
+        <link href="https://cheongpy.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
