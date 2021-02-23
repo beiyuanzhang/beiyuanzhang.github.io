@@ -1,0 +1,57 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "peiyuen cheong",
+    "description": "",
+    "home_page_url": "https://cheongpy.github.io",
+    "feed_url": "https://cheongpy.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "cheong peiyuen"
+    },
+    "items": [
+        {
+            "id": "https://cheongpy.github.io/ce-shic.html",
+            "url": "https://cheongpy.github.io/ce-shic.html",
+            "title": "测试C",
+            "summary": "这是标题这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文",
+            "content_html": "<h2>这是标题</h2>\n<p>这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cheongpy.github.io/media/posts/3/IMG_108020200703-202425.JPG\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://cheongpy.github.io/media/posts/3/responsive/IMG_108020200703-202425-xs.JPG 300w ,https://cheongpy.github.io/media/posts/3/responsive/IMG_108020200703-202425-sm.JPG 480w ,https://cheongpy.github.io/media/posts/3/responsive/IMG_108020200703-202425-md.JPG 768w\"  alt=\"\" width=\"1254\" height=\"836\"></figure>",
+            "author": {
+                "name": "cheong peiyuen"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T21:39:24+08:00",
+            "date_modified": "2021-02-23T21:39:24+08:00"
+        },
+        {
+            "id": "https://cheongpy.github.io/ce-shib.html",
+            "url": "https://cheongpy.github.io/ce-shib.html",
+            "title": "测试B",
+            "summary": "这是标题这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文Caption",
+            "content_html": "<h2>这是标题</h2>\n<p>这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文</p>\n<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://cheongpy.github.io/media/posts/2/gallery/132264680.jpg\" data-size=\"3620x2400\"><img loading=\"lazy\" src=\"https://cheongpy.github.io/media/posts/2/gallery/132264680-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"509\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://cheongpy.github.io/media/posts/2/gallery/alexander-andrews-zw07kVDaHPw-unsplash.jpg\" data-size=\"6225x4155\"><img loading=\"lazy\" src=\"https://cheongpy.github.io/media/posts/2/gallery/alexander-andrews-zw07kVDaHPw-unsplash-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"513\"></a></figure>\n</div></div>\n<figure class=\"post__image post__image--center\" ><img loading=\"lazy\" src=\"https://cheongpy.github.io/media/posts/2/landscape-5200752.jpg\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://cheongpy.github.io/media/posts/2/responsive/landscape-5200752-xs.jpg 300w ,https://cheongpy.github.io/media/posts/2/responsive/landscape-5200752-sm.jpg 480w ,https://cheongpy.github.io/media/posts/2/responsive/landscape-5200752-md.jpg 768w\"  alt=\"\" width=\"7087\" height=\"4724\">\n<figcaption >Caption</figcaption>\n</figure>",
+            "author": {
+                "name": "cheong peiyuen"
+            },
+            "tags": [
+                   "Works"
+            ],
+            "date_published": "2021-02-23T21:30:59+08:00",
+            "date_modified": "2021-02-23T21:35:45+08:00"
+        },
+        {
+            "id": "https://cheongpy.github.io/ce-shia.html",
+            "url": "https://cheongpy.github.io/ce-shia.html",
+            "title": "测试A",
+            "summary": " 这是标题 这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文 ",
+            "content_html": "\n    <h2>\n      这是标题\n    </h2>\n\n  <p>\n    这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://cheongpy.github.io/media/posts/1/132264680.jpg\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://cheongpy.github.io/media/posts/1/responsive/132264680-xs.jpg 300w ,https://cheongpy.github.io/media/posts/1/responsive/132264680-sm.jpg 480w ,https://cheongpy.github.io/media/posts/1/responsive/132264680-md.jpg 768w\"  height=\"2400\" width=\"3620\" alt=\"\" />\n      \n    </figure>",
+            "image": "https://cheongpy.github.io/media/posts/1/robot-2937861.jpg",
+            "author": {
+                "name": "cheong peiyuen"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-23T19:27:57+08:00",
+            "date_modified": "2021-02-23T19:42:30+08:00"
+        }
+    ]
+}

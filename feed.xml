@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>peiyuen cheong</title>
+    <link href="https://cheongpy.github.io/feed.xml" rel="self" />
+    <link href="https://cheongpy.github.io" />
+    <updated>2021-02-23T21:39:24+08:00</updated>
+    <author>
+        <name>cheong peiyuen</name>
+    </author>
+    <id>https://cheongpy.github.io</id>
+
+    <entry>
+        <title>测试C</title>
+        <author>
+            <name>cheong peiyuen</name>
+        </author>
+        <link href="https://cheongpy.github.io/ce-shic.html"/>
+        <id>https://cheongpy.github.io/ce-shic.html</id>
+
+        <updated>2021-02-23T21:39:24+08:00</updated>
+            <summary>
+                <![CDATA[
+                    这是标题这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>这是标题</h2>
+<p>这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文</p>
+<figure class="post__image"><img loading="lazy"  src="https://cheongpy.github.io/media/posts/3/IMG_108020200703-202425.JPG" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://cheongpy.github.io/media/posts/3/responsive/IMG_108020200703-202425-xs.JPG 300w ,https://cheongpy.github.io/media/posts/3/responsive/IMG_108020200703-202425-sm.JPG 480w ,https://cheongpy.github.io/media/posts/3/responsive/IMG_108020200703-202425-md.JPG 768w"  alt="" width="1254" height="836"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>测试B</title>
+        <author>
+            <name>cheong peiyuen</name>
+        </author>
+        <link href="https://cheongpy.github.io/ce-shib.html"/>
+        <id>https://cheongpy.github.io/ce-shib.html</id>
+            <category term="Works"/>
+
+        <updated>2021-02-23T21:35:45+08:00</updated>
+            <summary>
+                <![CDATA[
+                    这是标题这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文Caption
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>这是标题</h2>
+<p>这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文</p>
+<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://cheongpy.github.io/media/posts/2/gallery/132264680.jpg" data-size="3620x2400"><img loading="lazy" src="https://cheongpy.github.io/media/posts/2/gallery/132264680-thumbnail.jpg" alt="" width="768" height="509"></a></figure>
+<figure class="gallery__item"><a href="https://cheongpy.github.io/media/posts/2/gallery/alexander-andrews-zw07kVDaHPw-unsplash.jpg" data-size="6225x4155"><img loading="lazy" src="https://cheongpy.github.io/media/posts/2/gallery/alexander-andrews-zw07kVDaHPw-unsplash-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
+</div></div>
+<figure class="post__image post__image--center" ><img loading="lazy" src="https://cheongpy.github.io/media/posts/2/landscape-5200752.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://cheongpy.github.io/media/posts/2/responsive/landscape-5200752-xs.jpg 300w ,https://cheongpy.github.io/media/posts/2/responsive/landscape-5200752-sm.jpg 480w ,https://cheongpy.github.io/media/posts/2/responsive/landscape-5200752-md.jpg 768w"  alt="" width="7087" height="4724">
+<figcaption >Caption</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>测试A</title>
+        <author>
+            <name>cheong peiyuen</name>
+        </author>
+        <link href="https://cheongpy.github.io/ce-shia.html"/>
+        <id>https://cheongpy.github.io/ce-shia.html</id>
+
+        <updated>2021-02-23T19:42:30+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://cheongpy.github.io/media/posts/1/robot-2937861.jpg" alt="" />
+                     这是标题 这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://cheongpy.github.io/media/posts/1/robot-2937861.jpg" alt="" />
+                
+    <h2>
+      这是标题
+    </h2>
+
+  <p>
+    这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文这是一段正文
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://cheongpy.github.io/media/posts/1/132264680.jpg" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://cheongpy.github.io/media/posts/1/responsive/132264680-xs.jpg 300w ,https://cheongpy.github.io/media/posts/1/responsive/132264680-sm.jpg 480w ,https://cheongpy.github.io/media/posts/1/responsive/132264680-md.jpg 768w"  height="2400" width="3620" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
