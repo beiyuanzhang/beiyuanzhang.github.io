@@ -66,7 +66,7 @@
                    "Works"
             ],
             "date_published": "2021-02-23T21:30:59+08:00",
-            "date_modified": "2021-02-24T19:57:17+08:00"
+            "date_modified": "2021-02-24T20:57:33+08:00"
         },
         {
             "id": "https://cheongpy.github.io/ce-shia.html",
@@ -74,7 +74,6 @@
             "title": "测试A",
             "summary": " 针对嘉合劲威今日发布的相关内存条、SSD 涨价预警函，公司相关负责人向《科创板日报》记者表示，由于市场上芯片产能不足、封装及原材料等价格上涨，公司相关产品亦预计上涨&hellip;",
             "content_html": "\n  <p>\n    针对嘉合劲威今日发布的相关内存条、SSD 涨价预警函，公司相关负责人向《科创板日报》记者表示，由于市场上芯片产能不足、封装及原材料等价格上涨，公司相关产品亦预计上涨 ... 上述人士称：DRAM 颗粒每天都在涨，从开年到现在涨了 20% 以上了 ... 据其分析，市场需求在加快打开，疫情常态化后消费的阻力亦在减缓，如汽车、数据中心等市场需求增长明显。\n  </p>\n\n  <p>\n    美联储主席杰罗姆·鲍威尔本周向美国国会作证，在周二的听证会上，鲍威尔表示，通胀和就业仍远低于美联储的目标，这意味着宽松的货币政策立场很可能会保持不变 ... 他指出，尽管今年以来美债收益率大幅上升，同时人们对通胀的担忧加剧，但物价压力仍然很小，经济前景仍然「高度不确定」 ... 或受持续的货币政策立场言论影响，美股三大股指盘中触底反弹，纳指跌幅由近 4% 收窄至 0.5%。\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://cheongpy.github.io/media/posts/1/132264680.jpg\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://cheongpy.github.io/media/posts/1/responsive/132264680-xs.jpg 300w ,https://cheongpy.github.io/media/posts/1/responsive/132264680-sm.jpg 480w ,https://cheongpy.github.io/media/posts/1/responsive/132264680-md.jpg 768w\"  height=\"2400\" width=\"3620\" alt=\"\" />\n      \n    </figure>",
-            "image": "https://cheongpy.github.io/media/posts/1/robot-2937861.jpg",
             "author": {
                 "name": "cheong peiyuen"
             },
@@ -82,7 +81,7 @@
                    "Works"
             ],
             "date_published": "2021-02-23T19:27:57+08:00",
-            "date_modified": "2021-02-24T19:54:00+08:00"
+            "date_modified": "2021-02-24T20:59:53+08:00"
         }
     ]
 }
