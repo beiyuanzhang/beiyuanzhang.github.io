@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Peiyuen Cheong",
+    "title": "Cheong Peiyuen",
     "description": "",
     "home_page_url": "https://cheongpy.github.io",
     "feed_url": "https://cheongpy.github.io/feed.json",
@@ -12,47 +12,47 @@
         {
             "id": "https://cheongpy.github.io/test-b.html",
             "url": "https://cheongpy.github.io/test-b.html",
-            "title": "Test-B",
+            "title": "TEST-B",
             "summary": "针对嘉合劲威今日发布的相关内存条、SSD 涨价预警函，公司相关负责人向《科创板日报》记者表示，由于市场上芯片产能不足、封装及原材料等价格上涨，公司相关产品亦预计上涨 ... 上述人士称：DRAM&hellip;",
-            "content_html": "<p>针对嘉合劲威今日发布的相关内存条、SSD 涨价预警函，公司相关负责人向《科创板日报》记者表示，由于市场上芯片产能不足、封装及原材料等价格上涨，公司相关产品亦预计上涨 ... 上述人士称：DRAM 颗粒每天都在涨，从开年到现在涨了 20% 以上了 ... 据其分析，市场需求在加快打开，疫情常态化后消费的阻力亦在减缓，如汽车、数据中心等市场需求增长明显。 美联储主席杰罗姆·鲍威尔本周向美国国会作证，在周二的听证会上，鲍威尔表示，通胀和就业仍远低于美联储的目标，这意味着宽松的货币政策立场很可能会保持不变 ... 他指出，尽管今年以来美债收益率大幅上升，同时人们对通胀的担忧加剧，但物价压力仍然很小，经济前景仍然「高度不确定」 ... 或受持续的货币政策立场言论影响，美股三大股指盘中触底反弹，纳指跌幅由近 4% 收窄至 0.5%。</p>\n<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://cheongpy.github.io/media/posts/4/gallery/robot-2937861.jpg\" data-size=\"2560x1600\"><img loading=\"lazy\" src=\"https://cheongpy.github.io/media/posts/4/gallery/robot-2937861-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"450\"></a></figure>\n</div></div>",
-            "image": "https://cheongpy.github.io/media/posts/4/VCG211162030284.jpg",
+            "content_html": "<p>针对嘉合劲威今日发布的相关内存条、SSD 涨价预警函，公司相关负责人向《科创板日报》记者表示，由于市场上芯片产能不足、封装及原材料等价格上涨，公司相关产品亦预计上涨 ... 上述人士称：DRAM 颗粒每天都在涨，从开年到现在涨了 20% 以上了 ... 据其分析，市场需求在加快打开，疫情常态化后消费的阻力亦在减缓，如汽车、数据中心等市场需求增长明显。 美联储主席杰罗姆·鲍威尔本周向美国国会作证，在周二的听证会上，鲍威尔表示，通胀和就业仍远低于美联储的目标，这意味着宽松的货币政策立场很可能会保持不变 ... 他指出，尽管今年以来美债收益率大幅上升，同时人们对通胀的担忧加剧，但物价压力仍然很小，经济前景仍然「高度不确定」 ... 或受持续的货币政策立场言论影响，美股三大股指盘中触底反弹，纳指跌幅由近 4% 收窄至 0.5%。</p>\n<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cheongpy.github.io/media/posts/3/robot-2937861.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://cheongpy.github.io/media/posts/3/responsive/robot-2937861-xs.jpg 300w ,https://cheongpy.github.io/media/posts/3/responsive/robot-2937861-sm.jpg 480w ,https://cheongpy.github.io/media/posts/3/responsive/robot-2937861-md.jpg 768w ,https://cheongpy.github.io/media/posts/3/responsive/robot-2937861-lg.jpg 1024w ,https://cheongpy.github.io/media/posts/3/responsive/robot-2937861-xl.jpg 1360w ,https://cheongpy.github.io/media/posts/3/responsive/robot-2937861-2xl.jpg 1600w\"  alt=\"\" width=\"2560\" height=\"1600\"></figure>",
+            "image": "https://cheongpy.github.io/media/posts/3/VCG211162030284.jpg",
             "author": {
                 "name": "cheongpy"
             },
             "tags": [
             ],
-            "date_published": "2021-03-06T20:47:36+08:00",
-            "date_modified": "2021-03-06T20:52:09+08:00"
+            "date_published": "2021-03-30T18:07:57+08:00",
+            "date_modified": "2021-03-30T18:07:57+08:00"
+        },
+        {
+            "id": "https://cheongpy.github.io/test-a.html",
+            "url": "https://cheongpy.github.io/test-a.html",
+            "title": "TEST-A",
+            "summary": "针对嘉合劲威今日发布的相关内存条、SSD 涨价预警函，公司相关负责人向《科创板日报》记者表示，由于市场上芯片产能不足、封装及原材料等价格上涨，公司相关产品亦预计上涨 ... 上述人士称：DRAM&hellip;",
+            "content_html": "<p>针对嘉合劲威今日发布的相关内存条、SSD 涨价预警函，公司相关负责人向《科创板日报》记者表示，由于市场上芯片产能不足、封装及原材料等价格上涨，公司相关产品亦预计上涨 ... 上述人士称：DRAM 颗粒每天都在涨，从开年到现在涨了 20% 以上了 ... 据其分析，市场需求在加快打开，疫情常态化后消费的阻力亦在减缓，如汽车、数据中心等市场需求增长明显。</p>\n<p>美联储主席杰罗姆·鲍威尔本周向美国国会作证，在周二的听证会上，鲍威尔表示，通胀和就业仍远低于美联储的目标，这意味着宽松的货币政策立场很可能会保持不变 ... 他指出，尽管今年以来美债收益率大幅上升，同时人们对通胀的担忧加剧，但物价压力仍然很小，经济前景仍然「高度不确定」 ... 或受持续的货币政策立场言论影响，美股三大股指盘中触底反弹，纳指跌幅由近 4% 收窄至 0.5%。</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cheongpy.github.io/media/posts/2/alexander-andrews-zw07kVDaHPw-unsplash.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://cheongpy.github.io/media/posts/2/responsive/alexander-andrews-zw07kVDaHPw-unsplash-xs.jpg 300w ,https://cheongpy.github.io/media/posts/2/responsive/alexander-andrews-zw07kVDaHPw-unsplash-sm.jpg 480w ,https://cheongpy.github.io/media/posts/2/responsive/alexander-andrews-zw07kVDaHPw-unsplash-md.jpg 768w ,https://cheongpy.github.io/media/posts/2/responsive/alexander-andrews-zw07kVDaHPw-unsplash-lg.jpg 1024w ,https://cheongpy.github.io/media/posts/2/responsive/alexander-andrews-zw07kVDaHPw-unsplash-xl.jpg 1360w ,https://cheongpy.github.io/media/posts/2/responsive/alexander-andrews-zw07kVDaHPw-unsplash-2xl.jpg 1600w\"  alt=\"\" width=\"6225\" height=\"4155\"></figure>",
+            "image": "https://cheongpy.github.io/media/posts/2/alexander-andrews-zw07kVDaHPw-unsplash-2.jpg",
+            "author": {
+                "name": "cheongpy"
+            },
+            "tags": [
+                   "WORKS"
+            ],
+            "date_published": "2021-03-30T18:06:23+08:00",
+            "date_modified": "2021-03-30T18:08:03+08:00"
         },
         {
             "id": "https://cheongpy.github.io/contect.html",
             "url": "https://cheongpy.github.io/contect.html",
             "title": "CONTECT",
-            "summary": "Wechatbeiyuan_zh zhangbeiyuan@outlook.com",
-            "content_html": "<h2>Wechat</h2>\n<p><strong>beiyuan_zh</strong></p>\n<h2>Email</h2>\n<p><strong>zhangbeiyuan@outlook.com</strong></p>",
+            "summary": "WECHAT beiyuan_zh zhangbeiyuan@outlook.com",
+            "content_html": "<h2>WECHAT</h2>\n<p><strong>beiyuan_zh</strong></p>\n<h2>EMAIL</h2>\n<p><strong>zhangbeiyuan@outlook.com</strong></p>",
             "author": {
                 "name": "cheongpy"
             },
             "tags": [
             ],
-            "date_published": "2021-03-06T03:48:57+08:00",
-            "date_modified": "2021-03-06T22:45:07+08:00"
-        },
-        {
-            "id": "https://cheongpy.github.io/test-a.html",
-            "url": "https://cheongpy.github.io/test-a.html",
-            "title": "Test-A",
-            "summary": "针对嘉合劲威今日发布的相关内存条、SSD 涨价预警函，公司相关负责人向《科创板日报》记者表示，由于市场上芯片产能不足、封装及原材料等价格上涨，公司相关产品亦预计上涨 ... 上述人士称：DRAM&hellip;",
-            "content_html": "<p>针对嘉合劲威今日发布的相关内存条、SSD 涨价预警函，公司相关负责人向《科创板日报》记者表示，由于市场上芯片产能不足、封装及原材料等价格上涨，公司相关产品亦预计上涨 ... 上述人士称：DRAM 颗粒每天都在涨，从开年到现在涨了 20% 以上了 ... 据其分析，市场需求在加快打开，疫情常态化后消费的阻力亦在减缓，如汽车、数据中心等市场需求增长明显。</p>\n<p>美联储主席杰罗姆·鲍威尔本周向美国国会作证，在周二的听证会上，鲍威尔表示，通胀和就业仍远低于美联储的目标，这意味着宽松的货币政策立场很可能会保持不变 ... 他指出，尽管今年以来美债收益率大幅上升，同时人们对通胀的担忧加剧，但物价压力仍然很小，经济前景仍然「高度不确定」 ... 或受持续的货币政策立场言论影响，美股三大股指盘中触底反弹，纳指跌幅由近 4% 收窄至 0.5%。</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://cheongpy.github.io/media/posts/1/gallery/alexander-andrews-zw07kVDaHPw-unsplash.jpg\" data-size=\"6225x4155\"><img loading=\"lazy\" src=\"https://cheongpy.github.io/media/posts/1/gallery/alexander-andrews-zw07kVDaHPw-unsplash-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"481\"></a></figure>\n</div></div>",
-            "image": "https://cheongpy.github.io/media/posts/1/alexander-andrews-zw07kVDaHPw-unsplash.jpg",
-            "author": {
-                "name": "cheongpy"
-            },
-            "tags": [
-                   "Works"
-            ],
-            "date_published": "2021-03-06T03:37:43+08:00",
-            "date_modified": "2021-03-06T20:49:59+08:00"
+            "date_published": "2021-03-30T18:03:46+08:00",
+            "date_modified": "2021-03-30T18:08:56+08:00"
         }
     ]
 }
